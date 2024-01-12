@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "Updating bash-tools..."
+./update.sh
+echo "bash-tools updated"
